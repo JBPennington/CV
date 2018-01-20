@@ -1,4 +1,3 @@
-###Brett Pennington###
-#Software Engineer (Robotics and Controls)#
+#Brett Pennington
 
-
+###Software Engineer (Robotics and Controls)

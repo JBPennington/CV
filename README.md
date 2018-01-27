@@ -3,7 +3,7 @@
 <h2 align="center"> Software Engineer (Robotics, Controls, and Machine Learning) </h2>
 
 Hi,
-I'm a software engineer delivering solutions in robotics, controls systems, mathematics and dynamical systems. I consider myself an engineer first and a scientist second. As an engineer, I like to find the most effective and efficient solutions to my challenges. As a scientist, I'm fascinated by nature: the classical and quantum mechanics that declare it and the mathematics that define it. As a controls/machine learning engineer, I'm most excited to use those mathematical foundations to solve problems in our daily lives!
+I'm a software engineer delivering solutions in robotics, controls systems, mathematics and dynamical systems. I consider myself an engineer first and a scientist second. As an engineer, I like to find the most effective and efficient solutions to any challenge. As a scientist, I'm fascinated by nature: the classical and quantum mechanics that declare it and the mathematics that define it. As a controls/machine learning engineer, I'm most excited to use engineering principles and mathematics to bend science to our advantage, solving the problems of everyday life!
 
 ## HIGHLIGHTS
 ### Software Engineering

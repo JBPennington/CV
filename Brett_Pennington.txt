@@ -1,11 +1,9 @@
+﻿Brett Pennington
+Software Engineering Manager – Robotics/AV – Planning/Prediction
++1 (857) 600-8681 
+justinbrettpennington@gmail.com 
+www.linkedin.com/in/brett-pennington
 
-<h1 align="center"> Brett Pennington </h1>
-<h2 align="center"> Robotics, AVs, and Machine Learning </h2>
-<h2 align="center"> justinbrettpennington@gmail.com </h2>
-<h2 align="center"> www.linkedin.com/in/brett-pennington </h2>
-
-Hi,
-I'm a software engineer delivering solutions in robotics, controls systems, mathematics and dynamical systems. I consider myself an engineer first and a scientist second. As an engineer, I like to find the most effective and efficient solutions to any challenge. As a scientist, I'm fascinated by nature: the classical and quantum mechanics that declare it and the mathematics that define it. As a controls/machine learning engineer, I'm most excited to use engineering principles and mathematics to bend science to our advantage, solving the problems of everyday life!
 
 EXPERIENCE
 Manager, Planning and Prediction

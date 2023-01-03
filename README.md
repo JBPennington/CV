@@ -1,13 +1,16 @@
 
 <h1 align="center"> Brett Pennington </h1>
-<h2 align="center"> Robotics, AVs, and Machine Learning </h2>
-<h2 align="center"> justinbrettpennington@gmail.com </h2>
-<h2 align="center"> www.linkedin.com/in/brett-pennington </h2>
+<h2 align="center"> 
+Robotics, AVs, and Machine Learning
+
+justinbrettpennington@gmail.com - www.linkedin.com/in/brett-pennington 
+</h2>
 
 Hi,
 I'm a software engineer delivering solutions in robotics, controls systems, mathematics and dynamical systems. I consider myself an engineer first and a scientist second. As an engineer, I like to find the most effective and efficient solutions to any challenge. As a scientist, I'm fascinated by nature: the classical and quantum mechanics that declare it and the mathematics that define it. As a controls/machine learning engineer, I'm most excited to use engineering principles and mathematics to bend science to our advantage, solving the problems of everyday life!
 
-EXPERIENCE
+<h2> EXPERIENCE </h2>
+
 Manager, Planning and Prediction
 Rivian, Palo Alto, CA                                                                                  Jan 2021 - Present
 * Grew a team of 7 from 0 in half a year
@@ -56,8 +59,8 @@ University of Alabama, Tuscaloosa, AL                                         Ja
 * Built adaptive and dependable systems in critical testing environments
 * Researched diesel engine controls to advance sustainability and performance 
 
+<h2> ENGINEERING SKILLS </h2>
 
-ENGINEERING SKILLS
 Software Languages
 * Dream in:                                                 Modern C++
 * No problem writing:                                 C and Python
@@ -65,13 +68,11 @@ Software Languages
 * Could stack-overflow my way through:         JS, JSX, R, Ruby
 * Maybe one day:                                         Haskell, Rust
 
-
 Planning
 * Classical Behavior Planning (FSMs, PDDL-based, and hierarchical FSMs)
 * Classical Motion Planning Techniques (graphs, trees, and gradients)
 * Learned Planners (DQN and model-based)
 * Trajectory Optimization (shooting and collocation based for online/offline work)
-
 
 Work Style
 * Self-starter - never stop learning
@@ -79,14 +80,15 @@ Work Style
 * Open and collaborative - the faster we iterate, the more honest we are, and the more collaborative we are, the better the end result will be
 * Test-driven development and SOLID principles to build strong software foundations
 
+<h2> EDUCATION </h2>
 
-EDUCATION
-Ph.D. Mechanical Engineering, University of Alabama 
-Jan 2011 - Dec 2015
+Ph.D. Mechanical Engineering, University of Alabama</br>
+Jan 2011 - Dec 2015</br>
 Advanced Controls Systems, Optimal Control, and Computational Analysis
 
 
-B.S. Mechanical Engineering, University of Alabama                    
-Aug 2006 - Dec 2010
-Thermodynamics, Physics, and Mechanical Systems
+B.S. Mechanical Engineering, University of Alabama</br>
+Aug 2006 - Dec 2010</br>
+Thermodynamics, Physics, and Mechanical Systems</br>
+
 References available upon request

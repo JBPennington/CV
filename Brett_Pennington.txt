@@ -8,22 +8,21 @@ www.linkedin.com/in/brett-pennington
 EXPERIENCE
 Manager, Planning and Prediction
 Rivian, Palo Alto, CA                                                                                  Jan 2021 - Present
-* Grew a team of 7 from 0 in half a year
-* Led the team to write a planning stack for next generation features
-* Finished the first version of the planning stack 1 year ahead of schedule
-* Collaborated across the 13,000 person organization to reduce duplicate work, define team objectives, and identify opportunities for future
-* Co-lead the safety critical design of the ADAS application logic for a next-gen architecture
-* Architected prediction, behavior planning, motion planning, and trajectory optimization from the ground up
-* Design and wrote a framework for extending application logic to improve development times and reduce bugs
-* Constructed several prediction and planning libraries ranging from learned systems to classical planners
+* Grew the team from 0 to 7 members in a 6 month period consisting of junior engineers up to senior staff.
+* Architected prediction, behavior planning, motion planning, and trajectory optimization from the ground up.
+* Introduced reinforcement learning for improved behavior planning in complex traffic scenarios.
+* Led team responsible for writing a planning stack for next generation features, finishing the prototype one year ahead of schedule.
+* Co-lead the safety critical design of the ADAS application logic for L3+ autonomy.
+* Designed and wrote a C++, real-time framework for extending application logic to improve development time and reduce bugs.
+* Collaborated across 13,000 person organization to reduce duplicate work, define team objectives and identify opportunities for future.
 
 
 Staff Planning Engineer
 Rivian, Palo Alto, CA                                                                               Jul 2020 - Dec 2020
-* Wrote an offline, non-convex solver for optimal paths on off-road terrain
+* Wrote an offline, non-convex solver for optimal paths on off-road terrain in python.
 * Designed a path toolbox to store the optimal paths and load them in a dense, space-efficient representation in Matlab, Python, and C
 * Implemented online algorithms in C for fast multi-dimensional KNN lookups
-* Introduced TDD and modular software practices (again)
+* Introduced TDD and modular software practices.
 
 
 Advanced Controls Engineer
@@ -65,9 +64,9 @@ Software Languages
 
 
 Planning
-* Classical Behavior Planning (FSMs, PDDL-based, and hierarchical FSMs)
+* Classical Behavior Planning (FSMs, STRIPS-based, and hierarchical FSMs)
 * Classical Motion Planning Techniques (graphs, trees, and gradients)
-* Learned Planners (DQN and model-based)
+* Learned Planners (DQN and model-based RL)
 * Trajectory Optimization (shooting and collocation based for online/offline work)
 
 

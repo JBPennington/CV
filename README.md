@@ -1,93 +1,78 @@
+Brett Pennington  
+Engineering Leader – Robotics & AI  
+\+1 (857) 600-8681 \- [justinbrettpennington@gmail.com](mailto:justinbrettpennington@gmail.com) \- [www.linkedin.com/in/brett-pennington](http://www.linkedin.com/in/brett-pennington)
 
-<h1 align="center"> Brett Pennington </h1>
-<h2 align="center"> 
-Robotics, AVs, and Machine Learning
+## ---
 
-justinbrettpennington@gmail.com - www.linkedin.com/in/brett-pennington 
-</h2>
+### *EXPERIENCE*
 
-Hi,
-I'm a software engineer delivering solutions in robotics, controls systems, mathematics and dynamical systems. I consider myself an engineer first and a scientist second. As an engineer, I like to find the most effective and efficient solutions to any challenge. As a scientist, I'm fascinated by nature: the classical and quantum mechanics that declare it and the mathematics that define it. As a controls/machine learning engineer, I'm most excited to use engineering principles and mathematics to bend science to our advantage, solving the problems of everyday life!
+Sr Manager, Safe AI | *Cruise* | San Francisco, CA | 1/25 \- Current
 
-<h2> EXPERIENCE </h2>
+* Built a foundation model for human-likeness metrics for open loop trajectory evaluation.  
+* Prototyped a novel inference mechanism for trajectory diffusion that provides stronger faster sampling with stronger guarantees.   
+* Established and led the Safe AI team which is responsible for online safety case assurance and long-tail data & eval strategies.  
+* Cultivated AI best practices with Cruise learnings and published standards such as ISO 8800\.
 
-Manager, Planning and Prediction
-Rivian, Palo Alto, CA                                                                                  Jan 2021 - Present
-* Grew the team from 0 to 7 members in a 6 month period consisting of junior engineers up to senior staff.
-* Architected prediction, behavior planning, motion planning, and trajectory optimization from the ground up.
-* Introduced reinforcement learning for improved behavior planning in complex traffic scenarios.
-* Led team responsible for writing a planning stack for next generation features, finishing the prototype one year ahead of schedule.
-* Co-lead the safety critical design of the ADAS application logic for L3+ autonomy.
-* Designed and wrote a C++, real-time framework for extending application logic to improve development time and reduce bugs.
+Senior Staff Research Scientist | *Cruise* | San Francisco, CA | 6/23 \- 12/24
+
+* Led end-to-end re-architecture of L4 stack for better intersection performance.   
+* Designed the solution above as machine learning with guardrails to provide guarantees while maintaining state of the art humanlike planning.  
+* Reduced optimizer solve times by 40% with data-driven feedback on feasibility and convergence.  
+* Drove simulation based test design, systems metrics, and results analysis to reduce flaky testing, pinpoint failure modes, and highlight improvements.   
+* Landed an overhaul of planner sequencing to reduce AV stack latency by 90ms p95. 
+
+Manager, Planning and Prediction | *Rivian* | Palo Alto, CA | 1/21-6/23
+
+* Grew, supervised, and supported a team of up to 11 engineers; ranging from junior to senior staff engineers.  
+* Architected prediction, planning, and trajectory optimization for L3 autonomy.  
+* Introduced reinforcement learning (RL) for improved behavior planning in complex traffic scenarios.  
+* Led team responsible for writing a planning stack for next generation features, finishing the prototype one year ahead of schedule and later shipping to production.  
+* Co-lead the safety critical design of the ADAS application logic for L3+ autonomy.  
+* Designed and wrote a C++, real-time framework for extending application logic to improve development time and reduce bugs.  
 * Collaborated across 13,000 person organization to reduce duplicate work, define team objectives and identify opportunities for future.
 
+Staff Engineer, Planning | *Rivian* | Palo Alto, CA | 7/20 \-1/21
 
-Staff Planning Engineer
-Rivian, Palo Alto, CA                                                                               Jul 2020 - Dec 2020
-* Wrote an offline, non-convex solver for optimal paths on off-road terrain in python.
-* Designed a path toolbox to store the optimal paths and load them in a dense, space-efficient representation in Matlab, Python, and C
-* Implemented online algorithms in C for fast multi-dimensional KNN lookups
-* Introduced TDD and modular software practices.
+* Wrote an offline, non-convex solver for optimal paths on off-road terrain in python.  
+* Designed a path toolbox to store the optimal paths and load them in a dense, space-efficient representation in Matlab, Python, and C.  
+* Introduced TDD and modular software practices.  
+* Implemented online algorithms in C for fast multi-dimensional KNN lookups.
 
+Member, Working Group on AV Decision Making | *IEEE SA* | 10/20-6/23
 
-Advanced Controls Engineer
-Boston Dynamics, Boston, MA                                                              Jul 2018 - Jun 2020
-* Applied optimal control techniques for multi-objective and multi-bodied systems
-* Implemented MPC/Planning for linear/non-linear systems 
-* Designed proprioceptive sensing algorithms for workspace compliance and improved balancing of floating base robots
-* Introduced TDD and modular software practices for dynamic systems
+* Reviewed for the 2846 white paper “Literature Review on Kinematic Properties of Road Users for Use on Safety-Related Models for Automated Driving Systems”.  
+* Contributed to 3321 “Recommended Practice for the Application of Assumptions on Reasonably Foreseeable Behavior of Other Road Users”.
 
+Controls Engineer | *Boston Dynamics* | Waltham, MA | 7/18 \- 6/20
 
-Software Engineer – Motion Planning, Robotics & Controls  
-Automata Tech, London, UK                                                                             Apr 2017 - Jul 2018
-* Built custom kinematics, controls & motion planning libraries in C and modern C++
-* Designed collision detection systems in embedded MISRA compliant C with low bandwidth constrictions
-* Introduced Agile practices: Grew a team from 5 individuals into 3 cross-functional teams with 15 members in 9 months
- 
-Software Engineer                 
-Cubic Transportation Systems, London, UK                                Apr 2016 - Apr 2017
-* Maintained code running the London Transit (Oyster Card) environment along other global metropolitan transit systems (SF Clipper, new NYC Metrocard, Sydney Opal)
-* Correlated high-speed, time-sensitive data streams in critical systems handling payments for +6 million users daily in less than 0.3 seconds each
-* Delivered client-focused results quickly while adhering to sound development practices and refactoring a large and historic database along the way 
+* Applied optimal control techniques for multi-objective and multi-bodied systems.  
+* Implemented MPC/Planning for linear/non-linear systems.  
+* Developed proprioceptive sensing algorithms for workspace compliance and improved balancing of floating base robots.  
+* Introduced TDD and modular software practices for robotic systems.  
+* Designed a planner for de-palletizing with Handle and Stretch.
 
+Lead, Robotics | *Automata Tech* | London, UK |	4/17 \- 7/18
 
-Controls Research Engineer                                 
-University of Alabama, Tuscaloosa, AL                                         Jan 2011 - Dec 2015
-* Designed and synchronized embedded systems to enhance our testing ecosystem
-* Programmed and modeled safety-critical high performance systems 
-* Built adaptive and dependable systems in critical testing environments
-* Researched diesel engine controls to advance sustainability and performance 
+* Built custom kinematics, controls & motion planning libraries in C and modern C++.  
+* Designed collision detection systems in embedded MISRA compliant C with low bandwidth constraints.  
+* Introduced Agile practices: Grew a team from 5 individuals into 3 cross-functional teams with 15 members in 9 months.
 
-<h2> ENGINEERING SKILLS </h2>
+Software Engineer | *Cubic Transportation Systems* | London, UK | 4/16 \- 4/17
 
-Software Languages
-* Dream in:                                                 Modern C++
-* No problem writing:                                 C and Python
-* Once upon a time I wrote:                         C++98, SQL, MATLAB, SIMULINK, Go
-* Could stack-overflow my way through:         JS, JSX, R, Ruby
-* Maybe one day:                                         Haskell, Rust
+* Maintained code running the London Transit (Oyster Card) environment along other global metropolitan transit systems (SF Clipper, new NYC Metrocard, Sydney Opal).  
+* Correlated high-speed, time-sensitive data streams in critical systems handling payments for \+6 million users daily in less than 0.3 seconds each.  
+* Delivered client-focused results quickly while adhering to sound development practices and refactoring a large and historic database along the way.
 
-Planning
-* Classical Behavior Planning (FSMs, STRIPS-based, and hierarchical FSMs)
-* Classical Motion Planning Techniques (graphs, trees, and gradients)
-* Learned Planners (DQN and model-based RL)
-* Trajectory Optimization (shooting and collocation based for online/offline work)
+Research Engineer | *CAVT University of Alabama* | Tuscaloosa, AL | 1/11 \- 12/15
 
-Work Style
-* Self-starter - never stop learning
-* Enjoy mentorship and leading
-* Open and collaborative - the faster we iterate, the more honest we are, and the more collaborative we are, the better the end result will be
-* Test-driven development and SOLID principles to build strong software foundations
+* Designed and synchronized embedded systems to enhance our testing ecosystem  
+* Programmed and modeled safety-critical high performance systems   
+* Built adaptive and dependable systems in critical testing environments  
+* Researched diesel engine controls to advance sustainability and performance
 
-<h2> EDUCATION </h2>
+*EDUCATION*  
+Ph.D. Mechanical Engineering, University of Alabama | 1/11 \- 12/15  
+*Advanced Controls Systems, Optimal Control, and Computational Analysis*
 
-Ph.D. Mechanical Engineering, University of Alabama</br>
-Jan 2011 - Dec 2015</br>
-Advanced Controls Systems, Optimal Control, and Computational Analysis
-
-
-B.S. Mechanical Engineering, University of Alabama</br>
-Aug 2006 - Dec 2010</br>
-Thermodynamics, Physics, and Mechanical Systems</br>
-
-References available upon request
+B.S. Mechanical Engineering, University of Alabama	 | 8/06 \- 12/10  
+*Thermodynamics, Physics, and Mechanical Systems*

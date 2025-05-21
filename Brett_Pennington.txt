@@ -1,90 +1,72 @@
 ﻿Brett Pennington
-Software Engineering Manager – Robotics/AV – Planning/Prediction
-+1 (857) 600-8681 
-justinbrettpennington@gmail.com 
-www.linkedin.com/in/brett-pennington
-
-
+Engineering Leader – Robotics & AI
++1 (857) 600-8681 - justinbrettpennington@gmail.com - www.linkedin.com/in/brett-pennington
+________________
 EXPERIENCE
-Manager, Planning and Prediction
-Rivian, Palo Alto, CA                                                                                  Jan 2021 - Present
-* Grew the team of 7 in 6 months; consisting of junior engineers up to senior staff.
-* Architected prediction, behavior planning, motion planning, and trajectory optimization for an L3 tech stack.
-* Introduced RL for improved behavior planning in complex traffic scenarios.
-* Led team responsible for writing a planning stack for next generation features, finishing the prototype one year ahead of schedule.
+Sr Manager, Safe AI | Cruise | San Francisco, CA | 1/25 - Current
+* Built a foundation model for human-likeness metrics for open loop trajectory evaluation.
+* Prototyped a novel inference mechanism for trajectory diffusion that provides stronger faster sampling with stronger guarantees. 
+* Established and led the Safe AI team which is responsible for online safety case assurance and long-tail data & eval strategies.
+* Cultivated AI best practices with Cruise learnings and published standards such as ISO 8800.
+
+
+Senior Staff Research Scientist | Cruise | San Francisco, CA | 6/23 - 12/24
+* Led end-to-end re-architecture of L4 stack for better intersection performance. 
+* Designed the solution above as machine learning with guardrails to provide guarantees while maintaining state of the art humanlike planning.
+* Reduced optimizer solve times by 40% with data-driven feedback on feasibility and convergence.
+* Drove simulation based test design, systems metrics, and results analysis to reduce flaky testing, pinpoint failure modes, and highlight improvements. 
+* Landed an overhaul of planner sequencing to reduce AV stack latency by 90ms p95. 
+
+
+Manager, Planning and Prediction | Rivian | Palo Alto, CA | 1/21-6/23
+* Grew, supervised, and supported a team of up to 11 engineers; ranging from junior to senior staff engineers.
+* Architected prediction, planning, and trajectory optimization for L3 autonomy.
+* Introduced reinforcement learning (RL) for improved behavior planning in complex traffic scenarios.
+* Led team responsible for writing a planning stack for next generation features, finishing the prototype one year ahead of schedule and later shipping to production.
 * Co-lead the safety critical design of the ADAS application logic for L3+ autonomy.
 * Designed and wrote a C++, real-time framework for extending application logic to improve development time and reduce bugs.
 * Collaborated across 13,000 person organization to reduce duplicate work, define team objectives and identify opportunities for future.
 
 
-Member, IEEE Working Group on AV Decision Making
-IEEE SA                                                                                                            Oct 2020 - Present
-* Reviewed for the 2846 white paper “Literature Review on Kinematic Properties of Road Users for Use on Safety-Related Models for Automated Driving Systems”.
-* Contributed to 3321 “Recommended Practice for the Application of Assumptions on Reasonably Foreseeable Behavior of Other Road Users”.
-
-
-Staff Planning Engineer
-Rivian, Palo Alto, CA                                                                               Jul 2020 - Dec 2020
+Staff Engineer, Planning | Rivian | Palo Alto, CA | 7/20 -1/21
 * Wrote an offline, non-convex solver for optimal paths on off-road terrain in python.
 * Designed a path toolbox to store the optimal paths and load them in a dense, space-efficient representation in Matlab, Python, and C.
 * Introduced TDD and modular software practices.
 * Implemented online algorithms in C for fast multi-dimensional KNN lookups.
 
 
-Planning & Controls Engineer
-Boston Dynamics, Boston, MA                                                              Jul 2018 - Jun 2020
+Member, Working Group on AV Decision Making | IEEE SA | 10/20-6/23
+* Reviewed for the 2846 white paper “Literature Review on Kinematic Properties of Road Users for Use on Safety-Related Models for Automated Driving Systems”.
+* Contributed to 3321 “Recommended Practice for the Application of Assumptions on Reasonably Foreseeable Behavior of Other Road Users”.
+
+
+Controls Engineer | Boston Dynamics | Waltham, MA | 7/18 - 6/20
 * Applied optimal control techniques for multi-objective and multi-bodied systems.
 * Implemented MPC/Planning for linear/non-linear systems.
 * Developed proprioceptive sensing algorithms for workspace compliance and improved balancing of floating base robots.
 * Introduced TDD and modular software practices for robotic systems.
-* Designed  planner for de-palletizing with Handle and Stretch.
-
-
-
-
-Tech Lead – Motion Planning, Robotics & Controls  
-Automata Tech, London, UK                                                                             Apr 2017 - Jul 2018
+* Designed a planner for de-palletizing with Handle and Stretch.
+Lead, Robotics | Automata Tech | London, UK |        4/17 - 7/18
 * Built custom kinematics, controls & motion planning libraries in C and modern C++.
 * Designed collision detection systems in embedded MISRA compliant C with low bandwidth constraints.
 * Introduced Agile practices: Grew a team from 5 individuals into 3 cross-functional teams with 15 members in 9 months.
- 
-Software Engineer                 
-Cubic Transportation Systems, London, UK                                Apr 2016 - Apr 2017
+Software Engineer | Cubic Transportation Systems | London, UK | 4/16 - 4/17
 * Maintained code running the London Transit (Oyster Card) environment along other global metropolitan transit systems (SF Clipper, new NYC Metrocard, Sydney Opal).
 * Correlated high-speed, time-sensitive data streams in critical systems handling payments for +6 million users daily in less than 0.3 seconds each.
 * Delivered client-focused results quickly while adhering to sound development practices and refactoring a large and historic database along the way.
 
 
-Controls Research Engineer                                 
-University of Alabama, Tuscaloosa, AL                                         Jan 2011 - Dec 2015
+Research Engineer | CAVT University of Alabama | Tuscaloosa, AL | 1/11 - 12/15
 * Designed and synchronized embedded systems to enhance our testing ecosystem
 * Programmed and modeled safety-critical high performance systems 
 * Built adaptive and dependable systems in critical testing environments
-* Researched diesel engine controls to advance sustainability and performance 
-
-
-ENGINEERING SKILLS
-Software Languages
-* Dream in:                                                 Modern C++
-* No problem writing:                                 C and Python
-* Once upon a time I wrote:                         C++98, SQL, MATLAB, SIMULINK, Go
-* Could stack-overflow my way through:         JS, R, Ruby
-* Maybe one day:                                         Haskell, Rust
-
-
-Planning
-* Classical Behavior Planning (FSMs, STRIPS-based, and hierarchical FSMs)
-* Classical Motion Planning Techniques (graphs, trees, and gradients)
-* Learned Planners (DQN and model-based RL)
-* Trajectory Optimization (shooting and collocation based for online/offline work)
+* Researched diesel engine controls to advance sustainability and performance
 
 
 EDUCATION
-Ph.D. Mechanical Engineering, University of Alabama 
-Jan 2011 - Dec 2015
+Ph.D. Mechanical Engineering, University of Alabama | 1/11 - 12/15
 Advanced Controls Systems, Optimal Control, and Computational Analysis
 
 
-B.S. Mechanical Engineering, University of Alabama                    
-Aug 2006 - Dec 2010
+B.S. Mechanical Engineering, University of Alabama         | 8/06 - 12/10
 Thermodynamics, Physics, and Mechanical Systems
